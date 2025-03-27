@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\taskie-wnc.props" />
+</Project>
